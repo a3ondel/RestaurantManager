@@ -1,8 +1,7 @@
 # Restaurant Manager
-
 Simple useless WPF .NET application 
 
-#Screenshots 
+# Screenshots 
 ![image0](./readme_files/img0.png)
 ![image1](./readme_files/img1.png)
 ![image2](./readme_files/img2.png)
